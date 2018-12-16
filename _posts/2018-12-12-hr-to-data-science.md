@@ -11,6 +11,13 @@ But I would be lying to say that the magic came easily. As someone who is self-t
 
 I believe that you do not need to have a degree in computer science or math to become a data scientist. I hope what I have shared can encourage more people who are on the journey of transitioning into data science field.
 
+
 ## About the Speaker
 
 Brooke Yu is a data scientist with an unconventional background. Within a short period of time, she moved from HR to data science by studying code and machine learning algorithms independently. She currently works as a senior data scientist at State Auto.
+
+
+## Presentation Materials
+
+  - [Presenter slides](https://github.com/ColumbusDataScience/speaker-presentations/tree/master/2018/2018-12_from-hr-to-data-science)
+  - No recording of this talk is available
