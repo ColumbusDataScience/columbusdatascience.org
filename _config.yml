@@ -22,7 +22,8 @@ url     : https://columbusdatascience.org
 baseurl : # does not include hostname
 title   : Columbus Data Science
 description: >
-  The official website for the Columbus Data Science Meetup. Check here for news, announcements, upcoming presentations, and recordings of past meetups.
+  The official website for the Columbus Data Science Meetup. Check here for
+  news, announcements, upcoming presentations, and recordings of past meetups.
 
 
 ## => Language and Timezone
@@ -198,7 +199,7 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: true
-      pageview: true
+      pageview: false
 
 
 ## => Plugins
