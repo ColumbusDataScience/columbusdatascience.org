@@ -16,4 +16,4 @@ After a decade as a research astrophysicist, Dr. Kevin Croxall transitioned to l
 
 ## Presentation Materials
 
-_To be added_
+  - [Presenter slides](https://github.com/ColumbusDataScience/speaker-presentations/tree/master/2019/2019-01_effective-data-science)
