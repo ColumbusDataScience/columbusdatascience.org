@@ -1,5 +1,5 @@
 ---
-title: Effective Data Science
+title: Model Vs. Reality
 subtitle: Responsible model building and validation
 tags: talks
 ---
