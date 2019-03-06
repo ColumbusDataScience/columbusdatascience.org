@@ -13,4 +13,4 @@ Dr. Michael John Burton directs the data science program in the College of Arts 
 
 ## Presentation Materials
 
-  - To be added
+  - [Presenter slides](https://docs.google.com/presentation/d/e/2PACX-1vRdKzImMKnS3DSBI9Q5OaMoTawkbCImlcpy0w7LdNYvGTO52NgJ1S82ho2cp_VRoS6i-cSIMvn2yUr2/pub?start=false&loop=false&delayms=3000)
