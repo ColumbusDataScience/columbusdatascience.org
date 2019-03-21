@@ -16,4 +16,4 @@ Alfred Rossi is a Research Scientist, and Stephen Bailey is a Data Scientist, at
 
 ## Presentation Materials
 
-  - To be added
+  - [Presenter Slides](https://github.com/ColumbusDataScience/speaker-presentations/blob/master/2019/2019-03_preserving-privacy/2019-02_guide-to-preserving-privacy.pdf)
