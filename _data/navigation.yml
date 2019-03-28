@@ -11,3 +11,6 @@ header:
   - titles:
       en:         About
     url:        /about.html
+  - titles:
+      en:         Code of Conduct
+    url:        /conduct.html
