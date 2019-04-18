@@ -12,4 +12,4 @@ Rehgan Avon is a Product Manager at the Open Data Group. An alumna of the Ohio S
 
 ## Presentation Materials
 
-  - //Slides to be added//
+  - [Presenter Slides](https://github.com/ColumbusDataScience/speaker-presentations/blob/master/2019/2019-04_ml_operational_excellence/2019-04_ml-operational-excellence.pdf)
