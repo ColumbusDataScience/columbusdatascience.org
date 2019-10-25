@@ -13,4 +13,4 @@ Ezgi Karaesmen is a PhD candidate at the Ohio State University College of Pharma
 
 ## Presentation Materials
 
-  - Presenter slides to be added
+  - [Presenter Slides](https://github.com/ColumbusDataScience/speaker-presentations/blob/master/2019/2019-08_genomic-data-science/2019-08_genomic-data-science.pdf)
