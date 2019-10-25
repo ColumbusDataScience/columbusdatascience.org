@@ -4,6 +4,7 @@ tags: talks
 ---
 
 Advances in data and analytics have the potential to transform the organizations that deliver and pay for healthcare. Despite this promise, barriers endemic to the industry have made healthcare organizations slow to adopt and realize the benefits of these innovations. In this talk, Shannon Hollars will discuss these challenges facing healthcare, the tremendous possibilities of data and analytics, and why analysts and data scientists can find this an attractive and deeply rewarding field in which to contribute and sharpen their skills.
+
 <!--more-->
 
 ## About the Speaker
