@@ -17,6 +17,14 @@
 
     {%- include snippets/locale-to-string.html locale=site.data.locale.FOLLOW_ME -%}
 
+    {%- if _author.youtube -%}
+      <li title="{{ __return | replace: '[NAME]', 'YouTube' }}">
+        <a class="button youtube-button" itemprop="sameAs" href="https://youtube.com/channel/{{ _author.youtube }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/youtube.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
     {%- if _author.weibo -%}
       <li title="{{ __return | replace: '[NAME]', 'Weibo' }}">
         <a class="button button--circle weibo-button" itemprop="sameAs" href="https://weibo.com/{{ _author.weibo }}" target="_blank">

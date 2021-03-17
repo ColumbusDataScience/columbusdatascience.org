@@ -6,9 +6,6 @@ header:
       en:         Submit a Talk
     url:        https://github.com/ColumbusDataScience/columbusdatascience/issues/new?assignees=wetherc&labels=abstract&template=speaker-proposal.md&title=Abstract+Proposal
   - titles:
-      en:         Discussion
-    url:        https://groups.google.com/d/forum/columbus-data-science
-  - titles:
       en:         About
     url:        /about.html
   - titles:
