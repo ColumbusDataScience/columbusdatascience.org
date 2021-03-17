@@ -2,6 +2,9 @@
   & > ul {
     margin: 0;
     & > li > {
+      .youtube-button {
+        @include clickable($text-color-1, $youtube-color);
+      }
       .mail-button {
         @include clickable($text-color-1, $mail-color);
       }

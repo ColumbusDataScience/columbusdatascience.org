@@ -19,7 +19,7 @@
 
     {%- if _author.youtube -%}
       <li title="{{ __return | replace: '[NAME]', 'YouTube' }}">
-        <a class="button youtube-button" itemprop="sameAs" href="https://youtube.com/channel/{{ _author.youtube }}" target="_blank">
+        <a class="button button--circle youtube-button" itemprop="sameAs" href="https://youtube.com/channel/{{ _author.youtube }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/youtube.svg -%}</div>
         </a>
       </li>
