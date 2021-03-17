@@ -25,6 +25,14 @@
       </li>
     {%- endif -%}
 
+    {%- if _author.twitch -%}
+      <li title="{{ __return | replace: '[NAME]', 'Twitch' }}">
+        <a class="button button--circle twitch-button" itemprop="sameAs" href="https://twitch.tv/{{ _author.twitch }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/twitch.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
     {%- if _author.weibo -%}
       <li title="{{ __return | replace: '[NAME]', 'Weibo' }}">
         <a class="button button--circle weibo-button" itemprop="sameAs" href="https://weibo.com/{{ _author.weibo }}" target="_blank">

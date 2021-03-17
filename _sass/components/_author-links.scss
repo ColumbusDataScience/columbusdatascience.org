@@ -5,6 +5,9 @@
       .youtube-button {
         @include clickable($text-color-1, $youtube-color);
       }
+      .twitch-button {
+        @include clickable($text-color-1, $twitch-color);
+      }
       .mail-button {
         @include clickable($text-color-1, $mail-color);
       }
