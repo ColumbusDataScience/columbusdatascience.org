@@ -1,5 +1,5 @@
 ---
-title: Data Science and Strategizing its use in a Radiology Department.
+title: Data Science and Strategizing its use in a Radiology Department
 tags: talks
 ---
 
